@@ -5,4 +5,7 @@
 - 🌱 Estou focado no momento no aprendizado de Angular ...
 - 🤔 Estou em busca do meu primeiro emprego como Dev...
 
-<img widht = "130" height="170" src="https://github-readme-stats.vercel.app/api?username=leonardoggoes&hide=contribs,prs&theme=dark" /> <img widht = "130" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoggoes&layout=compact&theme=dark" />
+<img widht = "40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  <img widht = "40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  <img widht = "40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  <img widht = "40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  <img widht = "40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+
+
+<img widht = "130" height="120" src="https://github-readme-stats.vercel.app/api?username=leonardoggoes&hide=contribs,prs&theme=dark" /> <img widht = "130" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoggoes&layout=compact&theme=dark" />
